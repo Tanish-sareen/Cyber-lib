@@ -15,7 +15,7 @@ network analysis, and offensive security tools.**
 > Written by **Tanish Sareen** · BCA Cyber Security & Forensics · CT University  
 > *For educational & authorised penetration testing use only.*
 
-**[🌐 Browse the Library →](https://tanish-sareen.github.io/cyberlib)**
+**[🌐 Browse the Library →](https://tanish-sareen.github.io/Cyber-lib/)
 
 </div>
 
@@ -64,23 +64,6 @@ cyberlib/
 
 ---
 
-## ➕ How to Publish a New Book (Daily Workflow)
-
-```bash
-# Step 1 — Drop your new PDF in the books/ folder
-cp ~/my-projects/MY\ EBOOKS/NewBook_TanishSareen.pdf books/
-
-# Step 2 — Open index.html, copy an existing book card block,
-#           update: href, title, description, icon, tags, color
-
-# Step 3 — Update the book count in index.html
-#           <span id="book-count">8</span>   ← increment by 1
-
-# Step 4 — Commit and push — live in ~30 seconds
-git add .
-git commit -m "📚 Add [Book Name] guide"
-git push
-```
 
 The site auto-updates on GitHub Pages. No build step, no CI needed.
 
