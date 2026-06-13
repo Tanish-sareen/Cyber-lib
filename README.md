@@ -15,7 +15,7 @@ network analysis, and offensive security tools.**
 > Written by **Tanish Sareen** · BCA Cyber Security & Forensics · CT University  
 > *For educational & authorised penetration testing use only.*
 
-**[🌐 Browse the Library - (https://tanish-sareen.github.io/Cyber-lib/#books) ]**
+**[🌐 Browse the Library - https://tanish-sareen.github.io/Cyber-lib/#books]**
 
 </div>
 
