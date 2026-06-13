@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Medusa — Brute-Force & Password Auditing",
+    "file": "Medusa_Complete_Guide_Tanish_Sareen.pdf",
+    "icon": "⚔️",
+    "desc": "Complete guide to Medusa covering all 25+ protocol modules — SSH, FTP, HTTP, SMB, RDP, MySQL, Telnet, SNMP, VNC, LDAP, and more. Includes real lab scenarios and AV evasion techniques.",
+    "tags": ["password"],
+    "accent": "#ff4d6d",
+    "chapters": "23 Chapters · 3 Appendices",
+    "new": true
+  },
+  {
+    "title": "Wireshark — Complete Packet Analysis",
+    "file": "Wireshark_Complete_Guide_Tanish_Sareen.pdf",
+    "icon": "🦈",
+    "desc": "Master network traffic capture and analysis. Covers display filters, protocol dissection, detecting attacks live, extracting credentials from PCAPs, and building forensic evidence.",
+    "tags": ["network", "forensics"],
+    "accent": "#60a5fa",
+    "chapters": "Complete Field Guide",
+    "new": false
+  },
+  {
+    "title": "NMAP — Network Scanning & Recon",
+    "file": "NMAP_Complete_Guide_Tanish_Sareen.pdf",
+    "icon": "🔍",
+    "desc": "The definitive NMAP reference — host discovery, port scanning techniques, service and OS fingerprinting, NSE scripting engine, and firewall evasion strategies.",
+    "tags": ["recon", "network"],
+    "accent": "#34d399",
+    "chapters": "Complete Field Guide",
+    "new": false
+  },
+  {
+    "title": "John The Ripper — Password Cracking",
+    "file": "John_The_Ripper_eBook_TanishSareen.pdf",
+    "icon": "🗝️",
+    "desc": "From installation to advanced cracking — dictionary attacks, incremental mode, custom rules, hash identification, and cracking real-world hash formats including NTLM, bcrypt, and SHA.",
+    "tags": ["password"],
+    "accent": "#f59e0b",
+    "chapters": "Complete Field Guide",
+    "new": false
+  },
+  {
+    "title": "Autopsy — Digital Forensics Guide",
+    "file": "Autopsy_Digital_Forensics_Guide_TanishSareen.pdf",
+    "icon": "🔬",
+    "desc": "Complete digital forensics workflow with Autopsy — disk image acquisition, file carving, timeline analysis, keyword search, artefact recovery, and writing court-admissible reports.",
+    "tags": ["forensics"],
+    "accent": "#a78bfa",
+    "chapters": "Complete Field Guide",
+    "new": false
+  },
+  {
+    "title": "SET — Social Engineering Toolkit Field Guide",
+    "file": "SET_Complete_Field_Guide_Tanish_Sareen.pdf",
+    "icon": "🎭",
+    "desc": "Master the Social-Engineer Toolkit — phishing campaigns, credential harvesting, web cloning, spear-phishing vectors, and building effective security awareness programs.",
+    "tags": ["social"],
+    "accent": "#f472b6",
+    "chapters": "Complete Field Guide",
+    "new": false
+  },
+  {
+    "title": "Wash — Cybersecurity Fundamentals",
+    "file": "Wash_Cybersecurity_Ebook_Tanish_Sareen.pdf",
+    "icon": "🛡️",
+    "desc": "Core cybersecurity concepts, threat models, and practical security hardening techniques for students entering the field — the foundation every ethical hacker needs.",
+    "tags": ["defensive"],
+    "accent": "#67e8f9",
+    "chapters": "Complete Field Guide",
+    "new": false
+  }
+]
